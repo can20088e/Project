@@ -50,5 +50,6 @@ int main(){
     for(ll i = 1; i < v.size() - 1; ++i){
         if(v[i] - v[i + 1] > 1)cout << v[i] - 1 << endl;
     }
+    cout << "asfasfas";
     return 0;
 }
